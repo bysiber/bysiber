@@ -1,4 +1,4 @@
-# ⚡ .\usr\can
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> .\usr\can <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
 <a href="https://github.com/usrcan">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=100&multiline=true&width=500&height=80&lines=Can+Ozden;Researcher+%7C+:+)+%7C+Software+Engineer;AI+%7C+Python+Developer+%7C+Bots and Automation" alt="Typing SVG" />
