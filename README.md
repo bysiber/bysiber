@@ -1,8 +1,13 @@
 # ⚡ .\usr\can
+<p align="center">
+<a href="https://github.com/usrcan">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=100&multiline=true&width=500&height=80&lines=Can+Ozden;Researcher+%7C+:+)+%7C+Software+Engineer;AI+%7C+Python+Developer+%7C+Bots and Automation" alt="Typing SVG" />
+</a>
+<br/>
+   
+   **`Python Developer (I love cyberWoRLd :3)`**
 
-**`Python Developer (I love cyberWoRLd :3)`**
-
-Developing Python programs, designing backends, and creating crazy projects from scratch are just my thing! I put effort into all of my projects and they all have high-quality content. Delving deep into coding always gives me an incredible feeling :3
+   Developing Python programs, designing backends, and creating crazy projects from scratch are just my thing! I put effort into all of my projects and they all have high-quality content. Delving deep into coding always gives me an incredible feeling :3
 
    <p align="left">
       <a href="https://www.youtube.com/@pcenginar6904?sub_confirmation=1">
