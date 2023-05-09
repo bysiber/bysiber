@@ -1,4 +1,4 @@
-# ⚡ USRCAN
+# ⚡ .\usr\can
 
 **`Python Developer (I love cyberWoRLd :3)`**
 
