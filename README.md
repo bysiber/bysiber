@@ -53,6 +53,9 @@
 
 ### 📊 Stats
 
+### Visitors:
+![Visitor Count](https://profile-counter.glitch.me/new92/count.svg)
+
 ![usrcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=usrcan&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usrcan&theme=gruvbox&border_radius=5) -->
