@@ -5,7 +5,7 @@
 </a>
 <br/>
    
-   **`Python Developer (I love cyberWoRLd :3)`**
+   **`Python Developer (I love siberWoRLd :3)`**
 
    Developing Python programs, designing backends, and creating crazy projects from scratch are just my thing! I put effort into all of my projects and they all have high-quality content. Delving deep into coding always gives me an incredible feeling :3
 <p align="left">
