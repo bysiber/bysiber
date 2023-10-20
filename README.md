@@ -44,7 +44,8 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@pcenginar6904?sub_confirmation=1)
 
-#
+#MEME OF THE DAY 
+![lmaothisistrue](https://github.com/bysiber/bysiber/assets/101993364/c6617220-7774-4730-bc2d-c75c69e168fc)
 
 ### 📊 Stats
 
