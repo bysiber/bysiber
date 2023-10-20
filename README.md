@@ -1,7 +1,7 @@
 # ⚡ bysiber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <p align="center">
 <a href="https://github.com/usrcan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=100&multiline=true&width=500&height=80&lines=∇²Ψ + (2m/ħ^2)E - (iħ∂/∂t))Ψ = 0; ∫R³ ∫₀²π ∫₀ᴨ Ⱦ(θ,φ,t)sin(θ)dθdφdt" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=100&multiline=true&width=500&height=80&lines=∇²Ψ + (2m/ħ^2)E - (iħ∂/∂t))Ψ = 0; ∫R³ ∫₀²π ∫₀ᴨ Ⱦ(θ,φ,t)" alt="Typing SVG" />
 </a>
 <br/>
    
