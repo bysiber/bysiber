@@ -48,7 +48,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usrcan&theme=gruvbox&border_radius=5) -->
 
-[website]: https://pyot.me - SOON
+[website]: https://pyot.me
 [youtube]: https://www.youtube.com/@pcenginar6904
 
 <!--
