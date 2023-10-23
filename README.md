@@ -42,9 +42,9 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-### 📊 Stats
+<!--### 📊 Stats-->
 
-![bysiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=bysiber&show_icons=true&theme=gruvbox)
+<!--![bysiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=bysiber&show_icons=true&theme=gruvbox)-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usrcan&theme=gruvbox&border_radius=5) -->
 
