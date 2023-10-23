@@ -48,12 +48,6 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usrcan&theme=gruvbox&border_radius=5) -->
 
-#
-
-<details>
- <summary><h3>👨‍💻 usrcan's Coding Journey</h3></summary>
-   details....
-
 [website]: https://pyot.me - SOON
 [youtube]: https://www.youtube.com/@pcenginar6904
 
