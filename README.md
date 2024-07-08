@@ -85,35 +85,12 @@
 <!--![bysiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=bysiber&show_icons=true&theme=gruvbox)-->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usrcan&theme=gruvbox&border_radius=5) -->
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
-
-[website]: https://pyot.me
-[youtube]: https://www.youtube.com/@pcenginar6904
+<!--
 Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+  - :octocat: [My Resume](LİNK)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bysiber" alt="MarikIshtar007" /> </p>
+<!--
 <!--
 **usrcan/usrcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
