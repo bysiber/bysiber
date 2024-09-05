@@ -1,4 +1,4 @@
-# ⚡ Hi! I'm Kadir Can Özden <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# ⚡ Kadir Can Özden <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kadir_Can_Ozden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadir-can-%C3%B6zden-a14513243/)](https://www.linkedin.com/in/kadir-can-%C3%B6zden-a14513243/)
 [![Gmail Badge](https://img.shields.io/badge/-ozdenup@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozdenup@gmail.com)](mailto:ozdenup@gmail.com)
