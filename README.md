@@ -24,15 +24,7 @@
 <div align="center">
   <h2 style="color: #58A6FF;">🛠 Languages & Tools</h2>
   <!-- Senin verdiğin dillerin hepsi aynı boyutta, animasyonlu ve uyumlu ikonlarla eklendi -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,kotlin,bash&perline=8&theme=dark" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,nodejs,react,tensorflow,opencv,sqlite,mongo&perline=8&theme=dark" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,postman&perline=8&theme=dark" />
-  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,kotlin,java,bash,php,ruby,vscode,postman,figma,ps,ai,ubuntu,cloudflare,obsidian,latex,django,flask,fastapi,nodejs,express,react,nextjs,redux,tailwind,bootstrap,jquery,sass,tensorflow,pytorch,opencv,sklearn,postgres,mysql,mongodb,redis,sqlite,graphql,docker,kubernetes,aws,gcp,azure,nginx,git,github,gitlab,linux,ubuntu,debian,redhat,mint,blender&perline=18&theme=dark" />
+    <br/>
 </div>
