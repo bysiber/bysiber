@@ -17,9 +17,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/kadir-can-özden-a14513243"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ozdenup@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/bysiber?tab=followers"><img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/bysiber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/bysiber?tab=repositories&sort=stargazers"><img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/bysiber?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </div>
 
 <br/>
@@ -39,5 +36,3 @@
     <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,postman&perline=8&theme=dark" />
   </a>
 </div>
-
-<br/>
