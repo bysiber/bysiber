@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p>I build web applications, APIs, and developer tools from scratch. Passionate about creating products that solve real problems — from travel tools to productivity apps. Active open-source contributor with PRs to projects like Scrapy. I care deeply about clean code, comprehensive testing, and great user experience.</p>
+  <p>I build web applications, APIs, and developer tools from scratch. Passionate about creating products that solve real problems -- from travel tools to productivity apps. Active open-source contributor with PRs to projects like Scrapy. I care deeply about clean code, comprehensive testing, and great user experience.</p>
 </div>
 
 <br/>
@@ -22,8 +22,30 @@
 <br/>
 
 <div align="center">
-  <h2 style="color: #58A6FF;">🛠 Languages & Tools</h2>
+  <h2>Featured Project</h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/bysiber/cleardisk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bysiber&repo=cleardisk&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <p><strong>ClearDisk</strong> -- Free, open-source macOS menu bar app that finds and cleans 15+ developer caches (Xcode, node_modules, Docker, Homebrew, pip, CocoaPods, Cargo). Built with Swift & SwiftUI.</p>
+  <p>
+    <a href="https://github.com/bysiber/cleardisk"><img src="https://img.shields.io/github/stars/bysiber/cleardisk?style=social" alt="Stars"/></a>
+    <a href="https://github.com/bysiber/cleardisk/releases/latest"><img src="https://img.shields.io/github/v/release/bysiber/cleardisk?style=flat-square&color=58a6ff" alt="Release"/></a>
+    <a href="https://github.com/bysiber/cleardisk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/bysiber/cleardisk?style=flat-square" alt="License"/></a>
+  </p>
+  <code>brew tap bysiber/cleardisk && brew install --cask cleardisk</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>Languages & Tools</h2>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,go,cpp,bash,vscode,postman,figma,django,flask,fastapi,nodejs,express,react,nextjs,tailwind,bootstrap,postgres,mysql,mongodb,redis,sqlite,graphql,docker,kubernetes,aws,gcp,nginx,git,github,gitlab,linux&perline=18&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,swift,js,ts,html,css,go,cpp,bash,vscode,postman,figma,django,flask,fastapi,nodejs,express,react,nextjs,tailwind,bootstrap,postgres,mysql,mongodb,redis,sqlite,graphql,docker,kubernetes,aws,gcp,nginx,git,github,gitlab,linux&perline=18&theme=dark" />
   </a>
 </div>
